@@ -39,5 +39,5 @@ This project analyzes how socio-economic indicators influence the Quality of Lif
 
 ## 🔖 Citation
 
-> Adishi Agrawal, Prabhjyot Kaur . (2022). Quality of Life Index Regression Project. Ram Lal Anand College, University of Delhi.
+> Adishi Agrawal, Prabhjyot Kaur . Quality of Life Index Regression Project. Ram Lal Anand College, University of Delhi.
 
